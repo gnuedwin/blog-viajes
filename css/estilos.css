@@ -5,4 +5,18 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
-/** Css del Autor **/
+* {
+  margin: 0;
+  padding: 0;
+}
+/**Agregando Estilos globales **/
+body {
+  font-family: verdana, geneva,serif;
+}
+header {
+  padding: 20px 0;
+}
+div.contenedor {
+  width: 1200px;
+  margin: 0 auto;
+}
